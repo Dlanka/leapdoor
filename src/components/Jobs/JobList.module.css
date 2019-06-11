@@ -1,0 +1,9 @@
+
+.jobItem {
+    padding: 20px 30px;
+    background: #ffffff;
+    padding-right: 60px;
+}
+.jobItem:not(:last-child) {
+    margin-bottom: 5px;
+}
